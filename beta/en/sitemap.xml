@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://heeus.io/beta/blog/</loc>
+    <lastmod>2021-04-23T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/blog/event-sourcing/</loc>
+    <lastmod>2021-04-23T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/</loc>
+    <lastmod>2021-04-23T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://heeus.io/beta/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heeus.io/beta/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/blog/performance-202011/</loc>
+    <lastmod>2020-11-13T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/blog/what-is-heeus/</loc>
+    <lastmod>2020-11-11T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/devguide/overview/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://heeus.io/beta/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heeus.io/beta/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/devguide/creating_app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/devguide/data_structure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/devguide/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/download/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/gettingstarted/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/gettingstarted/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/apiref/javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/opensource/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/dev/docs/gettingstarted/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://heeus.io/beta/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://heeus.io/beta/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://heeus.io/beta/tags/"
+                />
+  </url>
+  
+</urlset>
